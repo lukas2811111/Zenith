@@ -16,11 +16,11 @@ local Window = Rayfield:CreateWindow({
 
 -- 3. Die Tabs (Menüpunkte auf der linken Seite) erstellen
 -- Die Nummern am Ende sind die IDs für die Symbole (Icons)
-local MainTab = Window:CreateTab("Spieler", 4483362458)       -- Mensch/Spieler Icon
-local CombatTab = Window:CreateTab("Kampf & ESP", 4483362458) -- Schild/Schwert Icon
-local TransportTab = Window:CreateTab("Teleports", 4483362458)-- Karten Icon
-local AutoTab = Window:CreateTab("Auto-Farm", 4483362458)     -- Zahnrad Icon
-local SettingsTab = Window:CreateTab("Einstellungen", 4483362458) -- Werkzeug Icon
+local MainTab = Window:CreateTab("Spieler", 0)       -- Mensch/Spieler Icon
+local CombatTab = Window:CreateTab("Kampf & ESP", 0) -- Schild/Schwert Icon
+local TransportTab = Window:CreateTab("Teleports", 0)-- Karten Icon
+local AutoTab = Window:CreateTab("Auto-Farm", 0)     -- Zahnrad Icon
+local SettingsTab = Window:CreateTab("Einstellungen", 0) -- Werkzeug Icon
 
 -- 4. Erste optische Unterteilungen (Sections) in den Tabs erstellen
 
