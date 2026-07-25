@@ -1,30 +1,44 @@
-# 🌌 ZENITH | Emergency Hamburg Script
+# 🌌 ZENITH | Emergency Hamburg
 
-Welcome to **Zenith**, the cleanest and most optimized UI script hub for Roblox *Emergency Hamburg*.
+**Zenith** is a clean, fast, and optimized UI script hub built for Roblox *Emergency Hamburg*.
+
+---
 
 ## 🚀 How to Execute
-Paste the following loadstring into your  Executor text box and click **Execute**
-If you don‘t have a Executer, then search https://weao.gg, and get a Executer.
 
-## 📄 How to get the loadstring
-Join our **official Discord Server**:
-LINK
+1. Open your Roblox executor.
+2. Paste the loadstring code below into the script box.
+3. Click **Execute**.
+
+```lua
+loadstring(game:HttpGet("YOUR_LOADSTRING_HERE"))()
+```
+
+> *Need an executor? Check out [WEAO](https://weao.gg) for safe options.*
+
+---
+
+## 📄 Community & Support
+
+* **Discord:** Join our [Official Discord Server](https://discord.gg) for updates, support, and new scripts.
 
 
-## ✨ Current Features
-- 🔫 Gun Mods
-- 🚗 Car Mods
-- 🏃 Movement Modifiers 
-- 📍 Teleports
+## ✨ Features
 
-## 👀 Comming Soon
-- 🦹‍♂️ Auto Rob
-- 👮‍♂️ Radar Farm
+### Current Features
+* 🔫 **Gun Mods** 
+* 🚗 **Car Mods** 
+* 🏃 **Movement Modifiers** 
+* 📍 **Teleports**
 
-## 🛠️ Developer Team
-- Head Developer:
-Nobody
+### Coming Soon
+* 🦹‍♂️ **Auto Rob** 
+* 👮‍♂️ **Radar Farm** 
 
-- Developer:
-Nobody
+
+## 🛠️ Development Team
+
+* **Head Developer:** [Nobody]
+* **Developer:** [Nobody]
+
 
