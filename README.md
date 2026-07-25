@@ -22,6 +22,7 @@ loadstring(game:HttpGet("YOUR_LOADSTRING_HERE"))()
 
 * **Discord:** Join our [Official Discord Server](https://discord.gg) for updates, support, and new scripts.
 
+---
 
 ## ✨ Features
 
@@ -35,6 +36,7 @@ loadstring(game:HttpGet("YOUR_LOADSTRING_HERE"))()
 * 🦹‍♂️ **Auto Rob** 
 * 👮‍♂️ **Radar Farm** 
 
+---
 
 ## 🛠️ Development Team
 
