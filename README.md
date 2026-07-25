@@ -11,7 +11,7 @@
 3. Click **Execute**.
 
 ```lua
-loadstring(game:HttpGet("YOUR_LOADSTRING_HERE"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/lukas2811111/Zenith/refs/heads/main/main.lua"))()
 ```
 
 > *Need an executor? Check out [WEAO](https://weao.gg) for safe options.*
